@@ -13,10 +13,10 @@ and they have to determine whether each statement is true or false. The game kee
 
 The game utilizes OOP concepts to create classes and objects for efficient code organization and functionality. The classes involved in the game include:
 
-main: Represents the game itself and controls the flow of the game.
-Question: Class function that takes in text(question) and answer
-Quizbrain: This is the logic section of the game that keeps asking questions and tracks user_score 
-Question_bank: The dataset that holds all the questions
+**main:** Represents the game itself and controls the flow of the game. <br>
+**Question:** Class function that takes in text(question) and answer <br>
+**Quizbrain:** This is the logic section of the game that keeps asking questions and tracks user_score <br>
+**Question_bank:** The dataset that holds all the questions <br>
 
 
 The game selects questions from a predefined question bank and presents them to the player one by one. The player enters their answer, and the game evaluates it, updating the player's score accordingly. At the end of the game, the player's final score is displayed.
