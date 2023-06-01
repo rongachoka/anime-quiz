@@ -34,7 +34,9 @@ To run the True/False game, follow these steps:
 ## Usage
 To play the True/False game, execute the following command in your terminal or command prompt from the project directory:
 
-**python main.py**
+```
+python main.py
+```
 
 Follow the instructions displayed on the screen. Enter "True" or "False", and press Enter to submit your answer for each question. The game will provide feedback on whether your answer is correct or incorrect. 
 Once all questions are answered, the final score will be displayed.
